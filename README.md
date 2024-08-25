@@ -1,6 +1,6 @@
 # Macintosh-Minimal-Laser-Case
 
-A minimal case for a macintosh 128/512/Plus logic board, constructed from 5mm laser cut material. 
+A minimal case for a Macintosh 128/512/Plus logic board, constructed from 5mm laser cut material. 
 
 ![IMAGE 2024-08-26 00:08:38](https://github.com/user-attachments/assets/1927d7d5-7385-4de9-bff3-25b9acdf0426)
 
@@ -31,3 +31,5 @@ This case has also been designed for the Plus reloaded project (https://github.c
 As such, it may be necessary for the rear metal bracket to be removed from the board.
 
 This design has been intended to be used for the 128/512/Plus, but it may fit a Macintosh SE or SE/30 logic board.
+
+The .SVG file will need to be converted to an appropriate file for your laser cutter. 
